@@ -33,17 +33,17 @@ const App = () => {
             Non-Veg
             <ul className="list">
               <li>Chicken Korma</li>
-              <li>Chicken Fried Rice</li>
               <li>Chicken Biryani</li>
               <li>Mutton Korma</li>
-              <li>Korma Kitchen's special Mutton Stew</li>
-              <li>Egg curry</li>
+              <li>The Korma Kitchen's Special Mutton Stew</li>
+              <li>Kebab Paratha</li>
+              <li>Egg Curry</li>
             </ul>
             Breads
             <ul className="list">
-              <li>Kebab Paratha</li>
-              <li>Rumali roti</li>
-              <li>Tawa roti</li>
+              <li>Rumali Roti</li>
+              <li>Naan Roti</li>
+              <li>Tawa Roti</li>
             </ul>
             Rice
             <ul>
@@ -51,30 +51,28 @@ const App = () => {
             </ul>
             Quick Eats
             <ul className="list">
-              <li>Chicken momos</li>
+              <li>Chicken Momos</li>
+              <li>Chicken Fried Rice</li>
             </ul>
            Beverages
             <ul className="list">
-              <li>Cold coffee</li>
-              <li>Virgin Mojito</li>
+              <li>Cold Coffee</li>
               <li>Lemonade</li>
               <li>Coke (600 ml/1.2 litre)</li>
               <li>Sprite (600 ml/1.2 litre)</li>
               <li>Dew (600 ml/1.2 litre)</li>
               <li>Pepsi (600 ml/1.2 litre)</li>
               <li>Water (1 litre)</li>
-              <li>Soda</li>
-              <li>Iced tea</li>
             </ul>
             Salads and Raita
             <ul>
               <li>Raita</li>
-              <li>Onion salad</li>
-              <li>Green salad</li>
+              <li>Onion Salad</li>
+              <li>Green Salad</li>
             </ul>
             Desert
             <ul>
-              <li>Korma kitchen's special Kheer</li>
+              <li>The Korma Kitchen's Special Kheer</li>
               <li>Kimami Sewaiyan</li>
             </ul>
           </Flex>
@@ -84,8 +82,9 @@ const App = () => {
         alignContent="center"
         justifyContent="center"
         flexDirection="column">
-          <h3>Available in Datia. Find us on Swiggy and Zomato.</h3>
-          <h4>Contact us: +91 9131149277</h4>
+          <h3>Available in Datia, Madhya Pardesh. Order us on Swiggy and Zomato.</h3>
+          <h4>Our ❤️ for Chicken Never Ends. Neither should yours. 😄</h4>
+          <h4>Contact us: +91 9131149277 | +91 9977384809</h4>
         </Flex>
     </Flex>
   );
