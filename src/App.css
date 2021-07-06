@@ -32,8 +32,8 @@
   }
 }
 
-.list {
-  /* list-style-type: none; */
+table {
+  width: 90%;
 }
 .boxStyle {
   z-index: 10;

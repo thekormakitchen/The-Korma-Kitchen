@@ -24,57 +24,134 @@ const App = () => {
         <h1>The Korma Kitchen</h1>
         <h3>
           We serve specialty dishes which are our strength. We operate during
-          evening and dinner hours, between 5 p.m. to 10 p.m.
+          evening and dinner hours, between 3 p.m. to 9:30 p.m.
         </h3>
         </Flex>
         <Box className='boxStyle'>
           <h2>Menu</h2>
           <Flex flexDirection="column" alignItems="flex-start">
-            Non-Veg
-            <ul className="list">
-              <li>Chicken Korma</li>
-              <li>Chicken Biryani</li>
-              <li>Mutton Korma</li>
-              <li>The Korma Kitchen's Special Mutton Stew</li>
-              <li>Kebab Paratha</li>
-              <li>Egg Curry</li>
-            </ul>
-            Breads
-            <ul className="list">
-              <li>Rumali Roti</li>
-              <li>Naan Roti</li>
-              <li>Tawa Roti</li>
-            </ul>
-            Rice
-            <ul>
-              <li>Jeera Rice</li>
-            </ul>
-            Quick Eats
-            <ul className="list">
-              <li>Chicken Momos</li>
-              <li>Chicken Fried Rice</li>
-            </ul>
-           Beverages
-            <ul className="list">
-              <li>Cold Coffee</li>
-              <li>Lemonade</li>
-              <li>Coke (600 ml/1.2 litre)</li>
-              <li>Sprite (600 ml/1.2 litre)</li>
-              <li>Dew (600 ml/1.2 litre)</li>
-              <li>Pepsi (600 ml/1.2 litre)</li>
-              <li>Water (1 litre)</li>
-            </ul>
-            Salads and Raita
-            <ul>
-              <li>Raita</li>
-              <li>Onion Salad</li>
-              <li>Green Salad</li>
-            </ul>
-            Desert
-            <ul>
-              <li>The Korma Kitchen's Special Kheer</li>
-              <li>Kimami Sewaiyan</li>
-            </ul>
+          <u>Non-Veg</u>
+            <table>
+              <tr>
+                <td>Chicken Korma</td>
+                <td>150</td>
+                <td>295</td>
+              </tr>
+              <tr>
+                <td>Mutton Korma</td>
+                <td>180</td>
+                <td>350</td>
+              </tr>
+              <tr>
+                <td>Mutton Stew</td>
+                <td>190</td>
+                <td>370</td>
+              </tr>
+              <tr>
+                <td>Egg Curry(2egg)</td>
+                <td>50</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Chicken Biryani</td>
+                <td>100</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>Mutton Pulao</td>
+                <td>150</td>
+                <td>250</td>
+              </tr>
+              <tr>
+                <td>Mutton Seekh Kebab</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>Chicken Seekh Kebab</td>
+                <td>150</td>  
+              </tr>
+            </table>
+            <br />
+            <u>Breads</u>
+            <table>
+              <tr>
+                <td>Rumali Roti</td>
+                <td>7</td>  
+              </tr>
+              <tr>
+                <td>Naan</td>
+                <td>10</td>  
+              </tr>
+              <tr>
+                <td>Tawa Roti</td>
+                <td>4</td>  
+              </tr>
+            </table>
+            <br />
+            
+            <u>Quick Eats</u>
+            <table>
+              <tr>
+                <td>Chicken Momos</td>
+                <td>50</td>  
+              </tr>
+              <tr>
+                <td>Bread Omlette</td>
+                <td>40</td>  
+              </tr>
+              <tr>
+                <td>Shami Kebab Paratha</td>
+                <td>100</td>  
+              </tr>
+            </table>
+            <br />
+            <u>Salads and Raita</u>
+            <table>
+              <tr>
+                <td>Onion Salad</td>
+                <td>20</td>  
+              </tr>
+              <tr>
+                <td>Green Salad</td>
+                <td>40</td>  
+              </tr>
+            </table>
+            <br />
+            <u>Desserts</u>
+            <table>
+              <tr>
+                <td>Kimami Sewaiyan</td>
+                <td>120</td>  
+              </tr>
+              <tr>
+                <td>Mawa Bati (2pcs)</td>
+                <td>50</td>  
+              </tr>
+              <tr>
+                <td>Kheer</td>
+                <td>70</td>  
+              </tr>
+            </table>
+            <br />
+            <u>Beverages</u>
+            <table>
+              <tr>
+                <td>Coke (600 ml)</td>
+                <td>40</td>  
+              </tr>
+              <tr>
+                <td>Dew (600 ml)</td>
+                <td>40</td>  
+              </tr>
+              <tr>
+                <td>Fanta (600 ml)</td>
+                <td>40</td>  
+              </tr>
+              <tr>
+                <td>Thumbs Up (600 ml)</td>
+                <td>40</td>  
+              </tr>
+            </table>
           </Flex>
         </Box>
         <Flex className='footer' height="100%"
@@ -82,9 +159,10 @@ const App = () => {
         alignContent="center"
         justifyContent="center"
         flexDirection="column">
-          <h3>Available in Datia, Madhya Pardesh. Order us on Swiggy and Zomato.</h3>
+          <h3>Available in Datia, Madhya Pardesh</h3>
           <h4>Our ❤️ for Chicken Never Ends. Neither should yours. 😄</h4>
           <h4>Contact us: +91 9131149277 | +91 9977384809</h4>
+          <h4>thekormakitchen8@gmail.com</h4>
         </Flex>
     </Flex>
   );
