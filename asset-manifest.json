@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/The-Korma-Kitchen/static/css/main.ea6ce886.chunk.css",
-    "main.js": "/The-Korma-Kitchen/static/js/main.127df308.chunk.js",
-    "main.js.map": "/The-Korma-Kitchen/static/js/main.127df308.chunk.js.map",
+    "main.css": "/The-Korma-Kitchen/static/css/main.54270a06.chunk.css",
+    "main.js": "/The-Korma-Kitchen/static/js/main.d221a1fc.chunk.js",
+    "main.js.map": "/The-Korma-Kitchen/static/js/main.d221a1fc.chunk.js.map",
     "runtime-main.js": "/The-Korma-Kitchen/static/js/runtime-main.0f0b181c.js",
     "runtime-main.js.map": "/The-Korma-Kitchen/static/js/runtime-main.0f0b181c.js.map",
     "static/js/2.7cefdbb2.chunk.js": "/The-Korma-Kitchen/static/js/2.7cefdbb2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.89a08d9f.chunk.js": "/The-Korma-Kitchen/static/js/3.89a08d9f.chunk.js",
     "static/js/3.89a08d9f.chunk.js.map": "/The-Korma-Kitchen/static/js/3.89a08d9f.chunk.js.map",
     "index.html": "/The-Korma-Kitchen/index.html",
-    "static/css/main.ea6ce886.chunk.css.map": "/The-Korma-Kitchen/static/css/main.ea6ce886.chunk.css.map",
+    "static/css/main.54270a06.chunk.css.map": "/The-Korma-Kitchen/static/css/main.54270a06.chunk.css.map",
     "static/js/2.7cefdbb2.chunk.js.LICENSE.txt": "/The-Korma-Kitchen/static/js/2.7cefdbb2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/The-Korma-Kitchen/static/media/chick-min.a675155a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f0b181c.js",
     "static/js/2.7cefdbb2.chunk.js",
-    "static/css/main.ea6ce886.chunk.css",
-    "static/js/main.127df308.chunk.js"
+    "static/css/main.54270a06.chunk.css",
+    "static/js/main.d221a1fc.chunk.js"
   ]
 }
