@@ -129,7 +129,7 @@ const App = () => {
               </tr>
               <tr>
                 <td>Kheer</td>
-                <td>70</td>  
+                <td>80</td>  
               </tr>
             </table>
             <br />
